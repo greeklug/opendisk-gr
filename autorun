@@ -1,0 +1,3 @@
+#!/bin/sh
+firefox index.html || mozilla-firefox index.html || mozilla index.html || konqueror index.html || opera index.html
+

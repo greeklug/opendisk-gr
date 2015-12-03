@@ -1,0 +1,43 @@
+body  {color: #000000; background-color: #ffffff}  
+a {color: #000000;}
+a:link {color: #000000;}
+a:visited {color: #000000;}
+.maintable {text-align: left; width: 790px; height: 425px;}
+.mainimage {border: 0px solid; height: 200px; width: 790px; margin: 0;}
+.introtexttable {width: 790px;}
+.menutd {text-align: left; vertical-align: top; width: 132px;}
+.menubuttonimage {border: 0px solid ; width: 119px; height: 30px; margin: 0; vertical-align:text-top;}
+.menubuttonimageb {border: 0px solid ; width: 119px; height: 30px; margin: 0;}
+.introtexttd {width: 650px; vertical-align: top; text-align: center;}
+.txt_opendiscgr {color: #0000ff;}
+.txt_versgreeklug {color: #ff6600;}
+.txt_bold {font-weight: bold;}
+.txt_italics {font-style:italic;}
+.txt_try {text-align: center; background-color: #EEEEEE; border-color: #CCCCCC; border-style: dashed; border-width: 1px;}
+.txt_programs {color: #ff0000}
+.txt_ellakimg {text-align: center;}
+.img_ellakimg {border: 0px solid; height: 87px; width: 240px;}
+.txt_ellakmore {border-color: #CCCCCC; border-style: dashed; border-width: 1px;}
+.txt_ellakmore_floss {color: #5d91e8;}
+.txt_ellakmore_linux {color: #ff9500;}
+.txt_ellakmore_greeklug {color: #0d4094;}
+.txt_ellakmore_opendisk {color: #10a69d;}
+li {margin-bottom: 10px;}
+.txt_manual {border-color: #CCCCCC; background-color: #EEEEEE; border-style: dashed; border-width: 1px;}
+.copyright {color: #CCCCCC; text-align: center;}
+.img_diskimg {border: 0px solid; height: 31px; width: 32px;}
+.linux_distro_table {width: 523px; height: 202px;}
+.linux_distro_table_td {text-align: center;}
+.img_greeklug_logo {border: 0px solid; height: 150px; width: 393px;}
+.txt_greeklug_where {text-align: center; border-color: #CCCCCC; background-color: #EEEEEE; border-style: dashed; border-width: 1px;}
+.img_greeklug_map {text-align: center; width: 440px; height:340px; border:0;}
+.txt_greeklug_online {text-align: center; border-color: #DDDDDD; background-color: #FFFFFF; border-style: dotted; border-width: 1px;}
+.img_greeklug_online_a {text-align: left; border: 0px solid ; height: 32px; width: 32px;}
+.img_greeklug_online_b {text-align: left; border: 0px solid ; height: 48px; width: 48px;}
+.img_greeklug_online_c {text-align: left; border: 0px solid ; height: 87px; width: 160px;}
+.txt_license {font-weight: bold; color: green;}
+.txt_opendisk_license {border-color: #DDDDDD; background-color: #FFFFFF; border-style: dotted; border-width: 1px;}
+.txt_opendisk_credits {border-color: #CCCCCC; background-color: #EEEEEE; border-style: dashed; border-width: 1px;}
+.txt_opendisk_credits_v {margin-left: 30px; margin-right: 30px; margin-bottom: 5px; border-color: #CCCCCC; background-color: #FFFFFF; border-style: dotted; border-width: 2px;}
+
+
